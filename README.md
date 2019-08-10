@@ -9,4 +9,6 @@ Publication of my research work alongside the development of the LUCID Project.
 — [Oxford Physics Blog](https://www2.physics.ox.ac.uk/blog/astro-blog/2019/02/26/lucid-in-the-sky-a-stunning-example-of-research-in-schools)
 
 ## Usage Examples
-[LUCID Usage](https://github.com/amshenoy/lucid_project/lucid_usage.ipynb)
+[LUCID Usage](https://github.com/amshenoy/lucid_project/blob/master/lucid_usage.ipynb)
+[Sample Data](https://github.com/amshenoy/lucid_project/tree/master/sample_data)
+[Output Files](https://github.com/amshenoy/lucid_project/tree/master/output)
